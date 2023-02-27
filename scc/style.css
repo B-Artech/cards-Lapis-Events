@@ -98,3 +98,10 @@ h2 {
   margin-bottom: 10px;
   color: rgba(141, 138, 138);
 }
+
+
+@media (min-width:375px) {
+  iframe {
+    width: 950px;
+  }
+}
